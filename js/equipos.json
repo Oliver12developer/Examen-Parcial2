@@ -1,103 +1,103 @@
 {
     "teams": [
         {
-            "id": 47,
-            "full-name": "AFC Bournemouth",
+            "id": 0,
+            "name": "AFC Bournemouth",
             "short-name": "AFC Bournemouth"
         },
         {
             "id": 1,
-            "full-name": "Arsenal",
+            "name": "Arsenal",
             "short-name": "Arsenal"
         },
         {
             "id": 2,
-            "full-name": "Aston Villa",
+            "name": "Aston Villa",
             "short-name": "Aston Villa"
         },
         {
-            "id": 49,
-            "full-name": "Brentford",
+            "id": 3,
+            "name": "Brentford",
             "short-name": "Brentford"
         },
         {
-            "id": 21,
-            "full-name": "Brighton & Hove Albion",
+            "id": 4,
+            "name": "Brighton & Hove Albion",
             "short-name": "Brighton"
         },
         {
-            "id": 7,
-            "full-name": "Chelsea",
+            "id": 5,
+            "name": "Chelsea",
             "short-name": "Chelsea"
         },
         {
-            "id": 8,
-            "full-name": "Crystal Palace",
+            "id": 6,
+            "name": "Crystal Palace",
             "short-name": "C Palace"
         },
         {
-            "id": 9,
-            "full-name": "Everton",
+            "id": 7,
+            "name": "Everton",
             "short-name": "Everton"
         },
         {
-            "id": 10,
-            "full-name": "Fulham",
+            "id": 8,
+            "name": "Fulham",
             "short-name": "Fulham"
         },
         {
-            "id": 29,
-            "full-name": "Leeds United",
+            "id": 9,
+            "name": "Leeds United",
             "short-name": "Leeds"
         },
         {
-            "id": 30,
-            "full-name": "Leicester City",
+            "id": 10,
+            "name": "Leicester City",
             "short-name": "Leicester"
         },
         {
             "id": 11,
-            "full-name": "Liverpool",
+            "name": "Liverpool",
             "short-name": "Liverpool"
         },
         {
             "id": 12,
-            "full-name": "Manchester City",
+            "name": "Manchester City",
             "short-name": "Manchester C"
         },
         {
             "id": 13,
-            "full-name": "Manchester United",
+            "name": "Manchester United",
             "short-name": "Manchester U"
         },
         {
-            "id": 15,
-            "full-name": "Newcastle United",
+            "id": 14,
+            "name": "Newcastle United",
             "short-name": "Newcastle"
         },
         {
-            "id": 32,
-            "full-name": "Nottingham Forest",
+            "id": 15,
+            "name": "Nottingham Forest",
             "short-name": "Nottm Forest"
         },
         {
-            "id": 18,
-            "full-name": "Southampton",
+            "id": 16,
+            "name": "Southampton",
             "short-name": "Southampton"
         },
         {
-            "id": 19,
-            "full-name": "Tottenham Hotspur",
+            "id": 17,
+            "name": "Tottenham Hotspur",
             "short-name": "Tottenham"
         },
         {
-            "id": 42,
-            "full-name": "West Ham United",
+            "id": 18,
+            "name": "West Ham United",
             "short-name": "West Ham"
         },
         {
-            "id": 44,
-            "full-name": "Wolverhampton Wanderers",
+            "id": 19,
+            "name": "Wolverhampton Wanderers",
             "short-name": "Wolves"
         }
     ]

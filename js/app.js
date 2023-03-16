@@ -1,4 +1,4 @@
-let lista = document.getElementById("containerTeams")
+let lista = document.getElementById("container2")
 let lisTeams = document.getElementById("equipos").content
 let fragment = document.createDocumentFragment()
 let teamsPL = []
@@ -28,7 +28,11 @@ const loadTeam = () => {
 
 const mostrarName = () =>{
 	teamsPL.forEach((busca) =>{
-		lisTeams.querySelector('p').textContent = busca.name
+		lisTeams.querySelector('p').textContent = busca[0].name
+		
+		const clone = lisTeams.cloneNode(true)
+		fragment.appendChild(clone)
+		lista.appendChild(fragment)
 	})
 }
 
